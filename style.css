@@ -1,0 +1,18 @@
+ul{
+	float: right;
+	margin-right: 20px;
+
+}
+
+li{
+	display: inline-block;
+}
+
+h3{
+	padding: 200px;
+}
+
+#main{
+	background-image: url(Images/header.jpg);
+	background-size: cover;
+}
